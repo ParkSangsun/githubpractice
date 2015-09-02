@@ -1,0 +1,98 @@
+.navbar-brand {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+body {
+  padding-top: 54px;
+}
+
+img {
+  height: 270px;
+  width: 180px;
+  border-radius: 10px;
+}
+
+.profilephoto {
+  margin: auto;
+}
+
+.profilephoto p{
+  font-size: 20px;
+}
+
+.jumbotron {
+  background-color: #dfe3ee;
+}
+
+.jumbotron h1 {
+  font-weight: bold;
+  font-size: 50px;
+  font-family: 'Alfa Slab One', cursive;
+  padding-bottom: 60px;
+}
+
+.jumbotron p {
+  font-family: Helvetica;
+}
+
+
+#fb {
+  height: 15px;
+  width: 60px;
+}
+
+.information {
+  border-bottom: 1px solid #dbdbdb;
+  padding-bottom: 30px;
+}
+
+.information h2 {
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.Photo {
+  background-color: #f7f7f7;
+}
+
+#img2 {
+  height: 240px;
+}
+
+.footer {
+  margin-top: 30px;
+  text-align: center;
+}
+
+#birth {
+  background-color: #ffd4e5;
+  padding-bottom: 20px;
+  border-radius: 10px;
+  margin-left: -15px;
+  margin-right: 15px;
+}
+
+#present {
+  background-color: #d4ffea;
+  border-radius: 10px;
+}
+
+#interest {
+  background-color: #feffa3;
+  border-radius: 10px;
+  margin-left: -15px;
+  margin-right: 15px;
+  margin-top: 20px;
+}
+
+#more {
+  background-color: #dbdcff;
+  padding-bottom: 40px;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+
+audio {
+  margin-top: 10px
+}
